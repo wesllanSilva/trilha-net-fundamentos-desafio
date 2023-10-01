@@ -36,7 +36,7 @@ namespace DesafioFundamentos.Models
 
                 // TODO: Pedir para o usuário digitar a quantidade de horas que o veículo permaneceu estacionado,
                 // TODO: Realizar o seguinte cálculo: "precoInicial + precoPorHora * horas" para a variável valorTotal                
-                // *IMPLEMENTE AQUI*
+                // *IMPLEMENTE AQUI
                 int horas = 0;
                 decimal valorTotal = 0; 
                 horas = Convert.ToInt32(Console.ReadLine());
